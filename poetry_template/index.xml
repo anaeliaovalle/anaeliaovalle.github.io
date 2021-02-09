@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poetry | Anaelia Ovalle</title>
+    <link>/poetry_template/</link>
+      <atom:link href="/poetry_template/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poetry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
+      <title>Poetry</title>
+      <link>/poetry_template/</link>
+    </image>
+    
+  </channel>
+</rss>
