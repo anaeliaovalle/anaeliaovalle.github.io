@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Slides
 summary: An introduction to using Academic's Slides feature.
 authors: []
@@ -163,4 +163,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://spectrum.chat/academic)
 
-[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides) -->
