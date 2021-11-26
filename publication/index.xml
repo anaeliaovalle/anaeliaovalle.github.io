@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Anaelia Ovalle</title>
-    <link>/publication/</link>
+    <link>/publication.html</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>/publication.html</link>
     </image>
     
     <item>
-      <title>Leveraging Social Media Activity and Machine Learning for HIV and Substance Abuse Risk Assessment</title>
-      <link>/publication/jmir-2021/</link>
+      <title>Harms of gender exclusivity and challenges in non-binary representation in language technologies</title>
+      <link>/publication/harms-2021.html</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/jmir-2021/</guid>
+      <guid>/publication/harms-2021.html</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Social Media Activity and Machine Learning for HIV and Substance Abuse Risk Assessment</title>
+      <link>/publication/jmir-2021.html</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jmir-2021.html</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +54,9 @@
     
     <item>
       <title>A Smartwatch-Based Medication Adherence Monitoring System Using Machine Learning and Distributed Computing.</title>
-      <link>/publication/smartwatch-2018/</link>
+      <link>/publication/smartwatch-2018.html</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/smartwatch-2018/</guid>
+      <guid>/publication/smartwatch-2018.html</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -58,9 +78,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Applying Deep Learning to Public Health: Using Unbalanced Demographic Data to Predict Thyroid Disorder</title>
-      <link>/publication/thyroid-2018/</link>
+      <link>/publication/thyroid-2018.html</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/thyroid-2018/</guid>
+      <guid>/publication/thyroid-2018.html</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

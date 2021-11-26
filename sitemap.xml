@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/poetry/example/example1/</loc>
+    <loc>/poetry/example/example1.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry_template/example/example1/</loc>
+    <loc>/poetry_template/example/example1.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry/example/</loc>
+    <loc>/poetry/example.html</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry_template/example/</loc>
+    <loc>/poetry_template/example.html</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry/example/example2/</loc>
+    <loc>/poetry/example/example2.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry_template/example/example2/</loc>
+    <loc>/poetry_template/example/example2.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -38,201 +38,206 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>/talk/example.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/talk.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/publication_types/2.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/jmir-2021/</loc>
+    <loc>/publication/harms-2021.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/publication/jmir-2021.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/publication_types.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
+    <loc>/publication.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/source-themes.html</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/tags.html</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post_template/</loc>
+    <loc>/post_template.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content.html</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post_template/writing-technical-content/</loc>
+    <loc>/post_template/writing-technical-content.html</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry/</loc>
+    <loc>/poetry.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/poetry_template/</loc>
+    <loc>/poetry_template.html</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/authors/admin.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/publication_types/3.html</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_template/preprint/</loc>
+    <loc>/publication_template/preprint.html</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/authors.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_template/</loc>
+    <loc>/publication_template.html</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/post/jupyter.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post_template/jupyter/</loc>
+    <loc>/post_template/jupyter.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/publication_types/1.html</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/smartwatch-2018/</loc>
+    <loc>/publication/smartwatch-2018.html</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/thyroid-2018/</loc>
+    <loc>/publication/thyroid-2018.html</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/tags/deep-learning.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>/project/internal-project.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/project.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/spotify/</loc>
+    <loc>/project/spotify.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/equality/</loc>
+    <loc>/project/equality.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/visualization/</loc>
+    <loc>/tags/visualization.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>/tags/academic.html</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/post/getting-started.html</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post_template/getting-started/</loc>
+    <loc>/post_template/getting-started.html</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories.html</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/demo/</loc>
+    <loc>/categories/demo.html</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_template/journal-article/</loc>
+    <loc>/publication_template/journal-article.html</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/robert-ford/</loc>
+    <loc>/authors/robert-ford.html</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_template/conference-paper/</loc>
+    <loc>/publication_template/conference-paper.html</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>/slides/example.html</loc>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>/slides.html</loc>
   </url>
   
 </urlset>

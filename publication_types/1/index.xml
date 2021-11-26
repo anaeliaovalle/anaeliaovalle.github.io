@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Anaelia Ovalle</title>
-    <link>/publication_types/1/</link>
+    <link>/publication_types/1.html</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>/publication_types/1.html</link>
     </image>
     
     <item>
       <title>A Smartwatch-Based Medication Adherence Monitoring System Using Machine Learning and Distributed Computing.</title>
-      <link>/publication/smartwatch-2018/</link>
+      <link>/publication/smartwatch-2018.html</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/smartwatch-2018/</guid>
+      <guid>/publication/smartwatch-2018.html</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Applying Deep Learning to Public Health: Using Unbalanced Demographic Data to Predict Thyroid Disorder</title>
-      <link>/publication/thyroid-2018/</link>
+      <link>/publication/thyroid-2018.html</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/thyroid-2018/</guid>
+      <guid>/publication/thyroid-2018.html</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -62,9 +62,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>An example conference paper</title>
-      <link>/publication_template/conference-paper/</link>
+      <link>/publication_template/conference-paper.html</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication_template/conference-paper/</guid>
+      <guid>/publication_template/conference-paper.html</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
