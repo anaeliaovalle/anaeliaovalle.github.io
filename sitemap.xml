@@ -49,16 +49,66 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arjun-subramonian/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/intersect/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gilbert-gee/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kai-wei-chang/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vagrant-gautam/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,36 +125,6 @@
   <url>
     <loc>/publication/robustness/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/arjun-subramonian/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -139,11 +159,6 @@
   
   <url>
     <loc>/authors/jieyu-zhao/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kai-wei-chang/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,17 +268,7 @@
   </url>
   
   <url>
-    <loc>/authors/gilbert-gee/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/preprint/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vagrant-gautam/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   

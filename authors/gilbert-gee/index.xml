@@ -5,12 +5,37 @@
     <link>/authors/gilbert-gee/</link>
       <atom:link href="/authors/gilbert-gee/index.xml" rel="self" type="application/rss+xml" />
     <description>Gilbert Gee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
       <title>Gilbert Gee</title>
       <link>/authors/gilbert-gee/</link>
     </image>
+    
+    <item>
+      <title>Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness</title>
+      <link>/publication/intersect/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/intersect/</guid>
+      <description>&lt;!-- # &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+# &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;click-the-slides-button-above-to-demo-academics-markdown-slides-feature&#34;&gt;Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness</title>
