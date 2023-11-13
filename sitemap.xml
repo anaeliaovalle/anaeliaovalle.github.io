@@ -48,68 +48,393 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <loc>/authors/anaelia-ovalle/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/arjun-subramonian/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <loc>/authors/aram-galstyan/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/intersect/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/gilbert-gee/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <loc>/authors/jwala-dhamala/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/kai-wei-chang/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/palash-goyal/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rahul-gupta/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-zemel/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zachary-jaggers/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tango/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a-pranav/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aditya-joshi/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-markham/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-mcnamara/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arjun-subramonian/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ashwin-singh/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/avijit-ghosh/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/claas-voelcker/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/danica-j-sutherland/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/davide-locatelli/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emi-baylor/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eva-breznik/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/evyn-dong/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/filip-klubicka/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hang-yuan/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/huan-zhang/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jackie-kay/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jaidev-shriram/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kruno-lehman/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luca-soldaini/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luke-stark/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maarten-sap/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/manu-saraswat/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marc-peter-deisenroth/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-leonor-pacheco/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-ryskina/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-mundt/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-noseworthy/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/milind-agarwal/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/natalia-y-bilenko/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nathaniel-dennler/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nikhil-vytla/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nyx-mclean/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/organizers-of-queerinai/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pan-xu/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/queer_in_ai/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raj-korpan/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raphael-gontijo-lopes/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ruchira-ray/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-mathew/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sarthak-arora/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sharvani-jha/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/st-john/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tanvi-anand/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vishakha-agrawal/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-agnew/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yanan-long/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zeerak-talat/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zijie-j-wang/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bounty/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/huy-tu/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/irene-font-peradejordi/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jess-de-jesus-de-pinho-pinhal/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kyra-yee/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mayra-russo/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-dennler/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/intersect/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gilbert-gee/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/vagrant-gautam/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/alicia-boyd/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/davi-liang/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/should/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -125,6 +450,11 @@
   <url>
     <loc>/publication/robustness/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -255,11 +585,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anaelia-ovalle/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
