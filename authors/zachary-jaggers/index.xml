@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zachary Jaggers | Anaelia Ovalle</title>
+    <title>Zachary Jaggers | </title>
     <link>/authors/zachary-jaggers/</link>
       <atom:link href="/authors/zachary-jaggers/index.xml" rel="self" type="application/rss+xml" />
     <description>Zachary Jaggers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Zachary Jaggers</title>
       <link>/authors/zachary-jaggers/</link>
     </image>
     
     <item>
-      <title>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation</title>
+      <title>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation (ACM FAccT, 2023)</title>
       <link>/publication/tango/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/tango/</guid>

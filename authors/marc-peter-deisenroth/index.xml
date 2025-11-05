@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marc Peter Deisenroth | Anaelia Ovalle</title>
+    <title>Marc Peter Deisenroth | </title>
     <link>/authors/marc-peter-deisenroth/</link>
       <atom:link href="/authors/marc-peter-deisenroth/index.xml" rel="self" type="application/rss+xml" />
     <description>Marc Peter Deisenroth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Marc Peter Deisenroth</title>
       <link>/authors/marc-peter-deisenroth/</link>
     </image>
     
     <item>
-      <title>Queer In AI: A Case Study in Community-Led Participatory AI</title>
+      <title>Queer In AI: A Case Study in Community-Led Participatory AI (ACM FAcct Best Paper Award, 2023)</title>
       <link>/publication/queer_in_ai/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       <guid>/publication/queer_in_ai/</guid>

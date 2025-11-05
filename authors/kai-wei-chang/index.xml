@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kai-Wei Chang | Anaelia Ovalle</title>
+    <title>Kai-Wei Chang | </title>
     <link>/authors/kai-wei-chang/</link>
       <atom:link href="/authors/kai-wei-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai-Wei Chang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Kai-Wei Chang</title>
       <link>/authors/kai-wei-chang/</link>
     </image>
     
     <item>
-      <title>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation</title>
+      <title>Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies (2024, NAACL Findings)</title>
+      <link>/publication/tokenization/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tokenization/</guid>
+      <description>&lt;!-- # &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+# &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;click-the-slides-button-above-to-demo-academics-markdown-slides-feature&#34;&gt;Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation (ACM FAccT, 2023)</title>
       <link>/publication/tango/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/tango/</guid>

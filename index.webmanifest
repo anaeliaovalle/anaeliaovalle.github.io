@@ -1,15 +1,15 @@
 {
-  "name": "Anaelia Ovalle",
-  "short_name": "Anaelia Ovalle",
+  "name": "",
+  "short_name": "",
   "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_hu1a644d29b7a87cebec971d8d406488ca_45350_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu079a575de87fa45ceb28f34db4fcd68e_1079249_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu1a644d29b7a87cebec971d8d406488ca_45350_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu079a575de87fa45ceb28f34db4fcd68e_1079249_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

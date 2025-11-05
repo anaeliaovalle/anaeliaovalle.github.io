@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zijie J Wang | Anaelia Ovalle</title>
+    <title>Zijie J Wang | </title>
     <link>/authors/zijie-j-wang/</link>
       <atom:link href="/authors/zijie-j-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zijie J Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:sq]</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Zijie J Wang</title>
       <link>/authors/zijie-j-wang/</link>
     </image>
     
     <item>
-      <title>Queer In AI: A Case Study in Community-Led Participatory AI</title>
+      <title>Queer In AI: A Case Study in Community-Led Participatory AI (ACM FAcct Best Paper Award, 2023)</title>
       <link>/publication/queer_in_ai/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       <guid>/publication/queer_in_ai/</guid>
